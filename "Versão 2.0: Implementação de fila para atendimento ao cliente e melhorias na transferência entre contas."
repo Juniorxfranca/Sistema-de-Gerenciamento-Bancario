@@ -1,0 +1,4 @@
+Versão 2.0: Implementação de fila para atendimento ao cliente e melhorias na transferência entre contas.
+- Adicionada fila para gerenciamento de solicitações de atendimento.
+- Melhorias na validação e segurança das transferências.
+- Documentação atualizada.
